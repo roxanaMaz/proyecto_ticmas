@@ -1,0 +1,88 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(248, 241, 233);
+}
+h1{
+    text-align: center;
+    margin-bottom: 3%;
+    font-size: 550%;
+}
+img{
+    width: 250px;
+    height: 250px;
+    margin-left: 43.5%;
+    margin-bottom: 5%;
+}
+
+#persona{
+    font-size: 300%;
+}
+
+.contenedor{
+    display: flex;
+   
+}
+
+#cont{
+    width: 30px;
+    height: 30px;
+    margin-left: 16%;
+    padding: 55px;
+
+}
+
+.btn-1{
+    
+    padding: 15px;
+    margin-left: 35px;
+    margin-right: 55px;
+}
+
+.btn-2{
+   
+    padding: 15px;
+    margin-right: 55px;
+}
+
+.btn-3{
+   
+    padding: 15px;
+    margin-right: 55px;
+}
+
+.btn-4{
+   
+    padding: 15px;
+    margin-right: 55px;
+}
+
+.btn-5{
+   
+    padding: 15px;
+    margin-right: 55px;
+}
+
+.btn-6{
+   
+    padding: 15px;
+    margin-right: 55px;
+}
+
+.btn-7{
+   
+    padding: 15px;
+    margin-right: 55px;
+}
+.btn-8{
+   
+    padding: 15px;
+    margin-right: 55px;
+}
+
+#volver{
+    padding: 50px;
+    margin-top: 20px;
+    margin-left: 950px;
+    size: 90px;
+    font-size: 180%;
+}
